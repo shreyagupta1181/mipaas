@@ -1,0 +1,15 @@
+disease,threshold
+Atelectasis,0.21
+Cardiomegaly,0.14
+Consolidation,0.12
+Edema,0.13
+Effusion,0.32
+Emphysema,0.15
+Fibrosis,0.12
+Hernia,0.05
+Infiltration,0.21
+Mass,0.12
+Nodule,0.25
+Pleural_Thickening,0.09
+Pneumonia,0.05
+Pneumothorax,0.09

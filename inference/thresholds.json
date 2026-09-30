@@ -1,0 +1,69 @@
+{
+    "densenet121": {
+        "Atelectasis": 0.50,
+        "Cardiomegaly": 0.50,
+        "Consolidation": 0.50,
+        "Edema": 0.50,
+        "Effusion": 0.50,
+        "Emphysema": 0.50,
+        "Fibrosis": 0.50,
+        "Hernia": 0.50,
+        "Infiltration": 0.50,
+        "Mass": 0.50,
+        "Nodule": 0.50,
+        "Pleural_Thickening": 0.50,
+        "Pneumonia": 0.50,
+        "Pneumothorax": 0.50
+    },
+
+    "densenet121_exp1": {
+        "Atelectasis": 0.21,
+        "Cardiomegaly": 0.14,
+        "Consolidation": 0.12,
+        "Edema": 0.13,
+        "Effusion": 0.32,
+        "Emphysema": 0.15,
+        "Fibrosis": 0.12,
+        "Hernia": 0.05,
+        "Infiltration": 0.21,
+        "Mass": 0.12,
+        "Nodule": 0.25,
+        "Pleural_Thickening": 0.09,
+        "Pneumonia": 0.05,
+        "Pneumothorax": 0.09
+    },
+
+    "densenet121_weighted": {
+        "Atelectasis": 0.78,
+        "Cardiomegaly": 0.82,
+        "Consolidation": 0.69,
+        "Edema": 0.60,
+        "Effusion": 0.73,
+        "Emphysema": 0.81,
+        "Fibrosis": 0.62,
+        "Hernia": 0.73,
+        "Infiltration": 0.49,
+        "Mass": 0.82,
+        "Nodule": 0.78,
+        "Pleural_Thickening": 0.78,
+        "Pneumonia": 0.35,
+        "Pneumothorax": 0.76
+    },
+
+    "densenet121_weighted_aug_cosine": {
+        "Atelectasis": 0.67,
+        "Cardiomegaly": 0.86,
+        "Consolidation": 0.68,
+        "Edema": 0.85,
+        "Effusion": 0.74,
+        "Emphysema": 0.88,
+        "Fibrosis": 0.68,
+        "Hernia": 0.68,
+        "Infiltration": 0.63,
+        "Mass": 0.79,
+        "Nodule": 0.81,
+        "Pleural_Thickening": 0.84,
+        "Pneumonia": 0.60,
+        "Pneumothorax": 0.88
+    }
+}
